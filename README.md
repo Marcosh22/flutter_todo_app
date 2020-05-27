@@ -4,7 +4,7 @@ A simple Flutter To Do App.
 
 # Screenshots
 
- <img src="https://github.com/Marcosh22/flutter_todo_app/blob/master/screenshots/demo.gif?raw=true" height="250em" />
+ <img src="https://github.com/Marcosh22/flutter_todo_app/blob/master/screenshots/demo.gif?raw=true" height="500em" />
 
 # Acknowledgments
 
