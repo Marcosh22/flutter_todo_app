@@ -8,6 +8,8 @@ A simple Flutter To Do App.
 
 # Acknowledgments
 
+some of the covered concepts
+
 ## Dart
 
 - Creating classes
